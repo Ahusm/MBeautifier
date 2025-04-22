@@ -1,4 +1,4 @@
-[简体中文](README_CN.md) [English](README.md)
+[简体中文](README.md) [English](README_EN.md)
 # MBeautifier
 
 MBeautifier 是一个轻量级的基于 M-Script 的 MATLAB 源代码格式化工具，可以直接在 MATLAB 编辑器中使用。
