@@ -1,3 +1,4 @@
+[简体中文](README_CN.md) [English](README.md)
 # MBeautifier
 
 MBeautifier is a lightweight M-Script based MATLAB source code formatter usable directly in the MATLAB Editor.
